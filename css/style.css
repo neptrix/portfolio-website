@@ -1,0 +1,20 @@
+.card-img-left {
+  width: 45%;
+  /* Link to your background image using in the property below! */
+  background: scroll center
+   url("https://source.unsplash.com/1600x900/?landscape");
+  background-size: cover;
+}
+
+.ml-7 {
+  margin-left: 7px !important;
+}
+.error {
+  color: red;
+}
+.success {
+  color: rgb(0, 172, 0);
+}
+.text-sm {
+  font-size: 14px;
+}
